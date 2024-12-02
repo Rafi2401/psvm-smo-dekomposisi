@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/datasets/shashwatwork/android-malware-dataset-fo
 Proyek ini bertujuan untuk menguji kinerja algoritma **Sequential Minimal Optimization (SMO)** serta variasinya, yaitu **Parallel SMO-2** dan **Parallel SMO-4**. Metode ini digunakan untuk mengoptimalkan klasifikasi dengan Support Vector Machine (SVM), khususnya pada dataset yang besar atau kompleks. Algoritma ini membantu dalam mengurangi waktu komputasi dengan mempertahankan akurasi yang tinggi, menjadikannya ideal untuk aplikasi skala besar.
 
 ## Tujuan
-1. Mengimplementasikan dan menguji performa algoritma SMO dan PSMO pada berbagai dataset.
+1. Mengimplementasikan dan menguji performa algoritma SMO dan PSMO pada dataset Android Malware DREBIN.
 2. Membandingkan efisiensi waktu antara SMO, PSMO-2, dan PSMO-4.
 3. Menilai akurasi klasifikasi untuk setiap metode pada dataset uji.
 
